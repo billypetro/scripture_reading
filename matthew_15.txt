@@ -1,0 +1,18 @@
+common phrases:
+                   phrase times appeared
+0     but he answered and              4
+1   he answered and said,              3
+2  answered and said unto              2
+3     and said unto them,              2
+4  the commandment of god              2
+5        out of the mouth              2
+6      and said unto him,              2
+7      into the coasts of              2
+8      then came to jesus              1
+9   came to jesus scribes              1
+important phrases:
+[['then came his disciples, and said unto him, knowest thou that the pharisees were offended, after they heard this saying?']
+ ['but he answered her not a word.']
+ ['but he answered and said, it is not meet to take the children bread, and to cast to dogs .']
+ ['and great multitudes came unto him, having with them lame, blind, dumb, maimed, and many others, and cast them down at jesus feet; and he healed them: insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the god of israel.']
+ ['and he took the seven loaves and the fishes, and gave thanks, and brake and gave to his disciples, and the disciples to the multitude.']]
